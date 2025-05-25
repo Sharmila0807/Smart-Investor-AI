@@ -1,6 +1,6 @@
 # 📊 Smart Investor AI - Agentic AI
 
-**Smart Investor AI** is a Streamlit-based financial assistant that delivers real-time stock insights, analyst recommendations, and the latest company news. It uses **Agno - Agent Framework** (previously-PhiData) ,**Groq's LLaMA 3.3 70B model** and integrates tools like **Yahoo Finance** and **DuckDuckGo** for comprehensive financial analysis. Users can also download their results as a **text file** for easy reference.
+**Smart Investor AI** is a Streamlit-based financial assistant that delivers real-time stock insights, analyst recommendations, and the latest company news. It uses **Agno - Agent Framework** (previously-PhiData), **Groq's LLaMA 3.3 70B model** and integrates tools like **Yahoo Finance** and **DuckDuckGo** for comprehensive financial analysis. Users can also download their results as a **text file** for easy reference.
 
 ![image](https://github.com/user-attachments/assets/678202f6-1b47-44ac-b7f4-19c918f5bb73)
 
