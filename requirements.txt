@@ -1,4 +1,4 @@
-phidata
+agno
 python-dotenv
 yfinance
 packaging
@@ -7,3 +7,4 @@ fastapi
 uvicorn
 groq
 python-multipart
+streamlit
